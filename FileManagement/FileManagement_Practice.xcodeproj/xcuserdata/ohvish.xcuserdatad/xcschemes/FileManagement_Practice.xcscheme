@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Scheme
+   version = "1.3">
+   <BuildAction>
+      <BuildActionEntries>
+         <BuildActionEntry
+            buildForRunning = "YES">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "8205E62129371ECC00F56DCE"
+               BuildableName = "FileManagement_Practice.app"
+               BlueprintName = "FileManagement_Practice"
+               ReferencedContainer = "container:FileManagement_Practice.xcodeproj">
+            </BuildableReference>
+         </BuildActionEntry>
+      </BuildActionEntries>
+   </BuildAction>
+   <LaunchAction
+      useCustomWorkingDirectory = "NO"
+      buildConfiguration = "Debug"
+      allowLocationSimulation = "YES">
+      <BuildableProductRunnable>
+         <BuildableReference
+            BuildableIdentifier = "primary"
+            BlueprintIdentifier = "8205E62129371ECC00F56DCE"
+            BuildableName = "FileManagement_Practice.app"
+            BlueprintName = "FileManagement_Practice"
+            ReferencedContainer = "container:FileManagement_Practice.xcodeproj">
+         </BuildableReference>
+      </BuildableProductRunnable>
+   </LaunchAction>
+</Scheme>

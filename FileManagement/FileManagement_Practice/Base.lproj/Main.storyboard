@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="19162" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="BYZ-38-t0r">
+    <device id="retina6_1" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="19144"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="System colors in document resources" minToolsVersion="11.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <scenes>
+        <!--View Controller-->
+        <scene sceneID="tne-QT-ifu">
+            <objects>
+                <viewController id="BYZ-38-t0r" customClass="ViewController" customModule="FileManagement_Practice" customModuleProvider="target" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="8bC-Xf-vdC">
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="spidy" translatesAutoresizingMaskIntoConstraints="NO" id="KEo-51-tT9">
+                                <rect key="frame" x="87" y="79" width="240" height="200"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="200" id="QTV-9o-qEB"/>
+                                    <constraint firstAttribute="width" constant="240" id="hBa-3b-CVH"/>
+                                </constraints>
+                            </imageView>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="cjj-zL-BVO">
+                                <rect key="frame" x="87" y="289" width="240" height="38"/>
+                                <color key="tintColor" systemColor="systemGreenColor"/>
+                                <state key="normal" title="Button"/>
+                                <buttonConfiguration key="configuration" style="filled" title="Save To Fm">
+                                    <fontDescription key="titleFontDescription" type="system" weight="semibold" pointSize="20"/>
+                                    <color key="baseBackgroundColor" systemColor="systemGreenColor"/>
+                                </buttonConfiguration>
+                                <connections>
+                                    <action selector="didTapOnSaveToFmButton:" destination="BYZ-38-t0r" eventType="touchUpInside" id="mhO-oL-Qr9"/>
+                                </connections>
+                            </button>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="frP-Uc-vgN">
+                                <rect key="frame" x="87" y="357" width="240" height="38"/>
+                                <color key="tintColor" systemColor="systemGreenColor"/>
+                                <state key="normal" title="Button"/>
+                                <buttonConfiguration key="configuration" style="filled" title="Set Image">
+                                    <fontDescription key="titleFontDescription" type="system" weight="semibold" pointSize="20"/>
+                                    <color key="baseBackgroundColor" systemColor="systemOrangeColor"/>
+                                </buttonConfiguration>
+                                <connections>
+                                    <action selector="didTapOnSetImageButton:" destination="BYZ-38-t0r" eventType="touchUpInside" id="DDI-sk-xI1"/>
+                                </connections>
+                            </button>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="AwA-cO-G7D">
+                                <rect key="frame" x="87" y="429" width="240" height="38"/>
+                                <color key="tintColor" systemColor="systemGreenColor"/>
+                                <state key="normal" title="Button"/>
+                                <buttonConfiguration key="configuration" style="filled" title="Delete To Fm">
+                                    <fontDescription key="titleFontDescription" type="system" weight="semibold" pointSize="20"/>
+                                    <color key="baseBackgroundColor" systemColor="systemPinkColor"/>
+                                </buttonConfiguration>
+                                <connections>
+                                    <action selector="didTapOnDeleteFmButton:" destination="BYZ-38-t0r" eventType="touchUpInside" id="b7K-XR-6nH"/>
+                                </connections>
+                            </button>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="WGV-0c-b6p">
+                                <rect key="frame" x="87" y="504" width="240" height="200"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" constant="240" id="dpu-7N-gxt"/>
+                                    <constraint firstAttribute="height" constant="200" id="pTe-Tv-gW3"/>
+                                </constraints>
+                            </imageView>
+                        </subviews>
+                        <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
+                        <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                        <constraints>
+                            <constraint firstItem="WGV-0c-b6p" firstAttribute="leading" secondItem="AwA-cO-G7D" secondAttribute="leading" id="6Lj-NP-Ddh"/>
+                            <constraint firstItem="KEo-51-tT9" firstAttribute="top" secondItem="6Tk-OE-BBY" secondAttribute="top" constant="35" id="7OR-TP-gFR"/>
+                            <constraint firstItem="AwA-cO-G7D" firstAttribute="top" secondItem="frP-Uc-vgN" secondAttribute="bottom" constant="34" id="Eb5-iP-vJv"/>
+                            <constraint firstItem="WGV-0c-b6p" firstAttribute="top" secondItem="AwA-cO-G7D" secondAttribute="bottom" constant="37" id="FLV-Bs-EH5"/>
+                            <constraint firstItem="cjj-zL-BVO" firstAttribute="leading" secondItem="KEo-51-tT9" secondAttribute="leading" id="JcR-Ac-PSM"/>
+                            <constraint firstItem="frP-Uc-vgN" firstAttribute="trailing" secondItem="cjj-zL-BVO" secondAttribute="trailing" id="KV9-A8-fCE"/>
+                            <constraint firstItem="cjj-zL-BVO" firstAttribute="top" secondItem="KEo-51-tT9" secondAttribute="bottom" constant="10" id="Nr8-Og-bdG"/>
+                            <constraint firstItem="cjj-zL-BVO" firstAttribute="trailing" secondItem="KEo-51-tT9" secondAttribute="trailing" id="QdK-7V-Iew"/>
+                            <constraint firstItem="KEo-51-tT9" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="aLV-cB-SzN"/>
+                            <constraint firstItem="AwA-cO-G7D" firstAttribute="leading" secondItem="frP-Uc-vgN" secondAttribute="leading" id="bvp-PE-oDS"/>
+                            <constraint firstItem="frP-Uc-vgN" firstAttribute="leading" secondItem="cjj-zL-BVO" secondAttribute="leading" id="h7R-UI-B79"/>
+                            <constraint firstItem="AwA-cO-G7D" firstAttribute="trailing" secondItem="frP-Uc-vgN" secondAttribute="trailing" id="iRK-03-KRr"/>
+                            <constraint firstItem="frP-Uc-vgN" firstAttribute="top" secondItem="cjj-zL-BVO" secondAttribute="bottom" constant="30" id="qOu-IV-JF6"/>
+                            <constraint firstItem="WGV-0c-b6p" firstAttribute="trailing" secondItem="AwA-cO-G7D" secondAttribute="trailing" id="zHM-7k-lVl"/>
+                        </constraints>
+                    </view>
+                    <connections>
+                        <outlet property="assistanceImage" destination="WGV-0c-b6p" id="YqQ-gb-XNg"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="132" y="110"/>
+        </scene>
+    </scenes>
+    <resources>
+        <image name="spidy" width="1920" height="1080"/>
+        <systemColor name="systemBackgroundColor">
+            <color white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+        </systemColor>
+        <systemColor name="systemGreenColor">
+            <color red="0.20392156862745098" green="0.7803921568627451" blue="0.34901960784313724" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+        </systemColor>
+        <systemColor name="systemOrangeColor">
+            <color red="1" green="0.58431372549019611" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+        </systemColor>
+        <systemColor name="systemPinkColor">
+            <color red="1" green="0.17647058823529413" blue="0.33333333333333331" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+        </systemColor>
+    </resources>
+</document>
