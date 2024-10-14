@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "Cables_Jumper_de_conexion_Dupont_Arduino_Hembra_Hembra_x_40_cables_de_20_cm_ferretronica_x700.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

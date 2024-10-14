@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "external-5-volt-batter-pack-and-USB-connector-for-breadboard.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "16x9-kinetix-mp-series-medium-inertia-mpm-servo-motor.2400.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

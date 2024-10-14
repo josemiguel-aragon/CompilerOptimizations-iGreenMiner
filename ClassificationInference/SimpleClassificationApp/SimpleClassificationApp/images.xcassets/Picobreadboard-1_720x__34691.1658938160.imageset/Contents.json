@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "Picobreadboard-1_720x__34691.1658938160.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

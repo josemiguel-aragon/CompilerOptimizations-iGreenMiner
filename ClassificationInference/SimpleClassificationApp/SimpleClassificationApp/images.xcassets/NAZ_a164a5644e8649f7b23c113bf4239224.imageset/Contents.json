@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "NAZ_a164a5644e8649f7b23c113bf4239224.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

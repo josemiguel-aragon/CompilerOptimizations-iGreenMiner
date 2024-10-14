@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "Motor-trifasico-50hp-3600rpm-Weg-w22-carcasa-hierro-11571351.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "100-Pcs-5mm-Led-Diode-Flashing-White-Red-Green-Blue-Yellow-Rgb-Fast-Slow-Flash-Diffused.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

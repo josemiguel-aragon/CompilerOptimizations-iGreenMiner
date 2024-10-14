@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "ABX00087_02.back_ad6310e8-d0fd-4f83-8c7d-68852cee5a4b_934x700.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

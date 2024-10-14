@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "Micro_USB_type_B_20_Data_Sync_Cable_1m_Akyga_AK_USB_21_01_1600x1600.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

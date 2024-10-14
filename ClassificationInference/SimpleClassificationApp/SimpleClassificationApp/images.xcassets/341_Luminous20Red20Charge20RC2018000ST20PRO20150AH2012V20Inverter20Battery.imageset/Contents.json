@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "341_Luminous20Red20Charge20RC2018000ST20PRO20150AH2012V20Inverter20Battery.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

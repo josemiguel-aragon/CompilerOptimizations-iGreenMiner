@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "the-ultimate-guide-to-the-types-of-usb-cables-connectors-and-versions-844637.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

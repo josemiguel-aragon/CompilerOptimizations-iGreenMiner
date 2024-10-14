@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "upont-jumper-wire-female-to-male-fm-30cm-robotedu-1701-20-robotedu44-700x700.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "Rotterdam_Ahoy_Europort_2011_281429.JPG.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

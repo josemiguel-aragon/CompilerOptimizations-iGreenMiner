@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "4168_large_breadboard_jumper_wire_pack_b2e6c8d1-7db8-4538-9203-39d82994a020_600x.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

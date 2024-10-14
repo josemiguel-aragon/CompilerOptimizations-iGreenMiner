@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "787-Cable-montaje-protoboard-o-arduino-15cm-600x600.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

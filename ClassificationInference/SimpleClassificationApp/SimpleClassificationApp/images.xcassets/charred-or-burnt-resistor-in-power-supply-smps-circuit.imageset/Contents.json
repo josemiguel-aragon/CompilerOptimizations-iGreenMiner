@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "charred-or-burnt-resistor-in-power-supply-smps-circuit.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

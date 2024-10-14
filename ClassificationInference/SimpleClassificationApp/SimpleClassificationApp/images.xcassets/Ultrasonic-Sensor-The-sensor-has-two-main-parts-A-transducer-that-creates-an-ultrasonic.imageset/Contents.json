@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "Ultrasonic-Sensor-The-sensor-has-two-main-parts-A-transducer-that-creates-an-ultrasonic.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

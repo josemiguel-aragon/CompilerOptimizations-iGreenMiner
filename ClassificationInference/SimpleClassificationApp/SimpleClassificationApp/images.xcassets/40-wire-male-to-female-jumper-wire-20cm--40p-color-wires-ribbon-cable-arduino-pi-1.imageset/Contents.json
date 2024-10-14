@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "40-wire-male-to-female-jumper-wire-20cm--40p-color-wires-ribbon-cable-arduino-pi-1.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "combo-of-20-multicolor-5mm-led-5-color-led-4-piece-each-led-original-imagcbgczypmgwzj.jpeg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

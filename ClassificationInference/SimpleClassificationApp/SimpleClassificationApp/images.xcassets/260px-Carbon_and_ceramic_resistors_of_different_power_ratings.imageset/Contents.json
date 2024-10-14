@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "260px-Carbon_and_ceramic_resistors_of_different_power_ratings.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

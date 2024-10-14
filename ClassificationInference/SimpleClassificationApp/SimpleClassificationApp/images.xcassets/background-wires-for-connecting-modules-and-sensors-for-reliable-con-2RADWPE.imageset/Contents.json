@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "background-wires-for-connecting-modules-and-sensors-for-reliable-con-2RADWPE.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

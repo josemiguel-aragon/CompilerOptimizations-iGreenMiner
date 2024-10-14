@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "led-strip-5mm-2835-192-led-m-warm-white-white-per.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "combo-of-3-type-jumper-cables-f-f-f-m-m-m-550x550.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

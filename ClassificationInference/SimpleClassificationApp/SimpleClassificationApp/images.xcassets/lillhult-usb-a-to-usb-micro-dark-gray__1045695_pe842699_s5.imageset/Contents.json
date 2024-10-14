@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "lillhult-usb-a-to-usb-micro-dark-gray__1045695_pe842699_s5.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "plusivo-5mm-led-assortment-kit-500pcs-with-bonus-pcb-and-220-resistors100pcs.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

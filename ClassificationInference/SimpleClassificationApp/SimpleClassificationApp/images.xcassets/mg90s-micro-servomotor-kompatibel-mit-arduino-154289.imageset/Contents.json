@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "mg90s-micro-servomotor-kompatibel-mit-arduino-154289.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

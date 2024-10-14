@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "th-arduino-uno-and-micro-servo-on-background-arduino-project-concept-2FWFGT2.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

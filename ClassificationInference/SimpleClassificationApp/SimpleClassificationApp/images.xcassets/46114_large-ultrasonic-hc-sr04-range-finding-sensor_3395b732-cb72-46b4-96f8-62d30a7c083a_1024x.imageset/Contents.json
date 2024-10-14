@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "46114_large-ultrasonic-hc-sr04-range-finding-sensor_3395b732-cb72-46b4-96f8-62d30a7c083a_1024x.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
