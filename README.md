@@ -23,3 +23,6 @@ This category benchmarks mobile games, a fast-growing segment of the app market:
 
 - **FlappyFlyBird (FlyBird)**: A Swift-based clone of *Flappy Bird* using the SpriteKit framework, where 5,000 player objects are updated, and the session ends after 3,000 frames.
 - **GhostRun (GhostR)**: A Swift game inspired by the *Dinosaur Game*, featuring 25,000 player instances with identical game sessions repeated for benchmarking.
+
+### iGreenMiner Scripts
+The **iGreenMiner-sync** directory contains the scripts necessary to run the updated measurement system. The `main.py` script initializes the measurement tool, which then waits for queries from the applications.**
