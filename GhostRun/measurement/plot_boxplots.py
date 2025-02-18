@@ -49,6 +49,7 @@ if __name__ == '__main__':
 
             print(np.median(time_plots[-1]))
             print(np.median(ec_plots[-1]))
+            print(np.median(ec_plots[0]))
 
             if count != 0:
                 print(np.median(time_plots[0])/np.median(time_plots[-1]))
@@ -56,8 +57,8 @@ if __name__ == '__main__':
                 print( (np.median(time_plots[0])/np.median(time_plots[-1])) / (np.median(ec_plots[0])/np.median(ec_plots[-1])) )
 
                 print("Improvements")
-                print((np.median(time_plots[-1]) - np.median(time_plots[0]))/np.median(time_plots[-1]) * 100)
-                print((np.median(ec_plots[-1]) - np.median(ec_plots[0]))/np.median(ec_plots[-1]) * 100)
+                print((np.median(time_plots[-1]) - np.median(time_plots[0]))/np.median(time_plots[0]) * 100)
+                print((np.median(ec_plots[-1]) - np.median(ec_plots[0]))/np.median(ec_plots[0]) * 100)
             print("Correlation value")
             s = spearmanr(time_plots[-1], ec_plots[-1])
             print(s.correlation)
